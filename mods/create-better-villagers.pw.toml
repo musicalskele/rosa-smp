@@ -1,0 +1,13 @@
+name = "Create: Better Villagers"
+filename = "create-better-villagers-1.2.9-Fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kS90mr4y/versions/OMYQMsxi/create-better-villagers-1.2.9-Fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "b9364c1d820935983d4a07759268f5c12c370f25d515ea788397e0ab3563a179442f00d63b94e90e79a6392d0dd9e0a335797461dd19795d450e3c7bf8948467"
+
+[update]
+[update.modrinth]
+mod-id = "kS90mr4y"
+version = "OMYQMsxi"

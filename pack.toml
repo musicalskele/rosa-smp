@@ -1,0 +1,13 @@
+name = "rosa-smp"
+author = "musicalskele"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5e332320ecff093294c8ceb81370837dbbdced4803e6e8549c99fb35eb7a86fa"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.20.1"
