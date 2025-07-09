@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "main.py"
-hash = "1328854e0aa9ae2b67f872f1e54f389147e720ce371d64fd32519d2cf99f04ee"
-
-[[files]]
-file = "modrinthlist"
-hash = "51fd0cdd366743bad4b207e0a515a332da7addb2ef318d6c117f9323401ed08d"
-
-[[files]]
 file = "mods/amecs.pw.toml"
 hash = "5b47d4f39f079e66823b7e9890edd4a065a3770fe124f6d4b80c96aa7412bd0a"
 metafile = true
@@ -30,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-mod.pw.toml"
-hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
+hash = "db0cf0e8fa916c1f982e0e3b84f3bed423b7f68e24446508e6dd4374d578fdab"
 metafile = true
 
 [[files]]
@@ -301,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "f40488b90039380bde4615baca056eaec3afb62defccd7301a15af1c602970c3"
 metafile = true
 
 [[files]]
