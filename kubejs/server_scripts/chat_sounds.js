@@ -49,6 +49,8 @@ function getSoundIdFromKey(key) {
 			return 'entity.wolf.ambient';
 		case 'baa':
 			return 'entity.sheep.ambient';
+		case 'whine': case 'whines':
+			return 'entity.wolf.whine';
 		default:
 			return '';
 	}
