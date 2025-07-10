@@ -1,12 +1,12 @@
 name = "rosa-smp"
 author = "musicalskele"
-version = "0.0.4"
+version = "0.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "627c73d9fb0625498f1c3fde2e63279433421d7fb75ef6026eb82a2452613916"
+hash = "643e71ff8cb5330b1aa938bcb6ca6fc48d719752dad08f537d950ed16de63fd7"
 
 [versions]
 fabric = "0.16.14"

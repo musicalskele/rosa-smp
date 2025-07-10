@@ -575,17 +575,17 @@ hash = "f8a4208d9cb40af6ad94428f2bc83a6f0b5713e8344d04898e834faa510ff2da"
 metafile = true
 
 [[files]]
-file = "pax/resourcepacks/3d Toms Create Storage.zip"
+file = "paxi/resourcepacks/3d Toms Create Storage.zip"
 hash = "88acc00e8b95cd01f6aacba871e4fdf0148ebefc6e2c584f6836a2c6e340c7a7"
 
 [[files]]
-file = "pax/resourcepacks/Create LootR Chest.zip"
+file = "paxi/resourcepacks/Create LootR Chest.zip"
 hash = "7fb629100934a4a335010765c8466cdf5bdd3bbea7c36194f328a25e45a43a1f"
 
 [[files]]
-file = "pax/resourcepacks/Create+Simple+Storage+2.1.zip"
+file = "paxi/resourcepacks/Create+Simple+Storage+2.1.zip"
 hash = "fc1cd2ae6ffc55248544e44e64bf7231321a768c5a677fd47169bd7cf1639218"
 
 [[files]]
-file = "pax/resourcepacks/datapacks/Create Computers Fabric Data Pack 1.2.1 - 1.20.1.zip"
+file = "paxi/resourcepacks/datapacks/Create Computers Fabric Data Pack 1.2.1 - 1.20.1.zip"
 hash = "e97ab243fb0b20fa99ff20e9f45808fa1abaeab725b3593d312b2bc8a3f4e20c"
