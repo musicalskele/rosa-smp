@@ -5,6 +5,22 @@ file = "config/builtinservers.json"
 hash = "2c01069c4455d16c998d9f2ec986068c6bd693e6d2adde8eef2c7db234683245"
 
 [[files]]
+file = "config/paxi/resourcepacks/3d Toms Create Storage.zip"
+hash = "88acc00e8b95cd01f6aacba871e4fdf0148ebefc6e2c584f6836a2c6e340c7a7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Create LootR Chest.zip"
+hash = "7fb629100934a4a335010765c8466cdf5bdd3bbea7c36194f328a25e45a43a1f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Create+Simple+Storage+2.1.zip"
+hash = "fc1cd2ae6ffc55248544e44e64bf7231321a768c5a677fd47169bd7cf1639218"
+
+[[files]]
+file = "config/paxi/resourcepacks/datapacks/Create Computers Fabric Data Pack 1.2.1 - 1.20.1.zip"
+hash = "e97ab243fb0b20fa99ff20e9f45808fa1abaeab725b3593d312b2bc8a3f4e20c"
+
+[[files]]
 file = "kubejs/server_scripts/chat_sounds.js"
 hash = "d77d4cd9bc4582332c74e6a01f5f9d7183b2756605381fdfe35e3748e1395c99"
 
@@ -582,19 +598,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "f8a4208d9cb40af6ad94428f2bc83a6f0b5713e8344d04898e834faa510ff2da"
 metafile = true
-
-[[files]]
-file = "paxi/resourcepacks/3d Toms Create Storage.zip"
-hash = "88acc00e8b95cd01f6aacba871e4fdf0148ebefc6e2c584f6836a2c6e340c7a7"
-
-[[files]]
-file = "paxi/resourcepacks/Create LootR Chest.zip"
-hash = "7fb629100934a4a335010765c8466cdf5bdd3bbea7c36194f328a25e45a43a1f"
-
-[[files]]
-file = "paxi/resourcepacks/Create+Simple+Storage+2.1.zip"
-hash = "fc1cd2ae6ffc55248544e44e64bf7231321a768c5a677fd47169bd7cf1639218"
-
-[[files]]
-file = "paxi/resourcepacks/datapacks/Create Computers Fabric Data Pack 1.2.1 - 1.20.1.zip"
-hash = "e97ab243fb0b20fa99ff20e9f45808fa1abaeab725b3593d312b2bc8a3f4e20c"
