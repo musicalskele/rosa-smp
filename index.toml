@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/builtinservers.json"
+hash = "2c01069c4455d16c998d9f2ec986068c6bd693e6d2adde8eef2c7db234683245"
+
+[[files]]
 file = "kubejs/server_scripts/chat_sounds.js"
 hash = "d77d4cd9bc4582332c74e6a01f5f9d7183b2756605381fdfe35e3748e1395c99"
 
@@ -77,6 +81,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
+metafile = true
+
+[[files]]
+file = "mods/builtin-servers.pw.toml"
+hash = "4398ab598bb4c28c32c7de835a64054936959e4e0c6a17d147a26c41c0536645"
 metafile = true
 
 [[files]]
