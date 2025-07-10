@@ -11,3 +11,8 @@ hash = "d346329612924b4aeaecb4ab42facfe74266a9cb0bdd215bf8b3f0b8300e4a9cea15ef78
 [update.modrinth]
 mod-id = "YCcdA1Lp"
 version = "wX0qDRqE"
+
+[option]
+optional = true
+default = true
+description = "add alternative key combinations to every keybind, like shift+r or idk some weird other shit"
