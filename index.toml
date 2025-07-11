@@ -1,8 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bclib/client.json"
+hash = "6d27a7a14a58859bab8587920ab7b3adbedf58100c631d9d0225d7d3e1446025"
+
+[[files]]
 file = "config/builtinservers.json"
 hash = "2c01069c4455d16c998d9f2ec986068c6bd693e6d2adde8eef2c7db234683245"
+
+[[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "68d450eed29e9c95fcb41fec9842f1506df0d9200ad69fda31bc6e1b96f9c08c"
+
+[[files]]
+file = "config/paxi/datapacks/Create Computers Fabric Data Pack 1.2.1 - 1.20.1.zip"
+hash = "e97ab243fb0b20fa99ff20e9f45808fa1abaeab725b3593d312b2bc8a3f4e20c"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "b25f8b7cb2dc019cbb72db90900c136c2c19a163400415262582d1ec927245d9"
 
 [[files]]
 file = "config/paxi/resourcepacks/3d Toms Create Storage.zip"
@@ -17,8 +33,8 @@ file = "config/paxi/resourcepacks/Create+Simple+Storage+2.1.zip"
 hash = "fc1cd2ae6ffc55248544e44e64bf7231321a768c5a677fd47169bd7cf1639218"
 
 [[files]]
-file = "config/paxi/resourcepacks/datapacks/Create Computers Fabric Data Pack 1.2.1 - 1.20.1.zip"
-hash = "e97ab243fb0b20fa99ff20e9f45808fa1abaeab725b3593d312b2bc8a3f4e20c"
+file = "config/paxi/resourcepacks/ccc.zip"
+hash = "4a78c8af8a1810229fd955b656ec675ed99a30c780b666b92704a58d84af9371"
 
 [[files]]
 file = "kubejs/server_scripts/chat_sounds.js"
@@ -172,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/dawn.pw.toml"
 hash = "f4fde077bf201fbc588de6ec081d10171101f3176ec9d85fa35b86aae42c241c"
+metafile = true
+
+[[files]]
+file = "mods/disable-end-portals.pw.toml"
+hash = "5325fdd517c3413c584e20bdf6932f2a1148561580e30e8cb77baa590e759c28"
 metafile = true
 
 [[files]]
@@ -587,6 +608,16 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "0958d9f10d0e8fb282b8e684b05b37b29aca826d48deeec3e44171857c99aca5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "cf708ff146f867df2153b3f27482e80769c7032b10037e4a752d31fbb5668eaf"
 metafile = true
 
 [[files]]
