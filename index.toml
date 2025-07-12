@@ -54,7 +54,15 @@ hash = "d77d4cd9bc4582332c74e6a01f5f9d7183b2756605381fdfe35e3748e1395c99"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/tconstruct/smeltery/casting_basin.js"
-hash = "f9364b0604c414205769fd1482e6852f03fde3c32705190a10c84a3c311273ea"
+hash = "6c4b5983731a5163e7911e3982470541b3b4c909272a838b85eeb8352826117f"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/tconstruct/smeltery/casting_table.js"
+hash = "cc93867086707e8a6d3fec89b8f2fec44b848719f5c220fecfe535c861051635"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/tconstruct/smeltery/melting.js"
+hash = "d57f7aba619ce74d7161bd1929ebd412f84a98c509d955a0da14d476483531d7"
 
 [[files]]
 file = "kubejs/startup_scripts/registry/kubejs/fluids.js"
