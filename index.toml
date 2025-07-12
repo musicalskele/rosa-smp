@@ -13,8 +13,16 @@ file = "config/paxi/datapack_load_order.json"
 hash = "68d450eed29e9c95fcb41fec9842f1506df0d9200ad69fda31bc6e1b96f9c08c"
 
 [[files]]
+file = "config/paxi/datapacks/Better_Hephaestus_v1.0.zip"
+hash = "647ffa059717400c8250a4aab9eef0caf7ca2111dee3cc7a6f8532240eb1df27"
+
+[[files]]
 file = "config/paxi/datapacks/Create Computers Fabric Data Pack 1.2.1 - 1.20.1.zip"
 hash = "e97ab243fb0b20fa99ff20e9f45808fa1abaeab725b3593d312b2bc8a3f4e20c"
+
+[[files]]
+file = "config/paxi/datapacks/Tom's Storage - Creatified.zip"
+hash = "4e29527fe092115aaf27e208f004b26c868e1fce541574131fb8e3e03d67f0f7"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
@@ -37,8 +45,20 @@ file = "config/paxi/resourcepacks/ccc.zip"
 hash = "4a78c8af8a1810229fd955b656ec675ed99a30c780b666b92704a58d84af9371"
 
 [[files]]
-file = "kubejs/server_scripts/chat_sounds.js"
+file = "kubejs/server_scripts/fluid_constants.js"
+hash = "24d7360ca48125a61b500c1b727fca6da5506a7d18c05c56d132a73447c8c381"
+
+[[files]]
+file = "kubejs/server_scripts/misc/chat_sounds.js"
 hash = "d77d4cd9bc4582332c74e6a01f5f9d7183b2756605381fdfe35e3748e1395c99"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/tconstruct/smeltery/casting_basin.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/startup_scripts/registry/kubejs/fluids.js"
+hash = "f735dabfb61f4ab87fc400e5ee9d49ea29f7a3304246bc110f405fe0bb707a17"
 
 [[files]]
 file = "mods/amecs.pw.toml"

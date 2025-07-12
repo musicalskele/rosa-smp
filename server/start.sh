@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Memory settings for the JVM
-MEMORY_SETTINGS="-Xmx8192M -Xms8192M"
+MEMORY_SETTINGS="-Xmx10G -Xms10G"
 
 # Main JVM flags for performance tuning
 MAIN_FLAGS="-XX:+UnlockExperimentalVMOptions \
