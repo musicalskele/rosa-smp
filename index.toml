@@ -54,7 +54,7 @@ hash = "d77d4cd9bc4582332c74e6a01f5f9d7183b2756605381fdfe35e3748e1395c99"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/tconstruct/smeltery/casting_basin.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "f9364b0604c414205769fd1482e6852f03fde3c32705190a10c84a3c311273ea"
 
 [[files]]
 file = "kubejs/startup_scripts/registry/kubejs/fluids.js"
