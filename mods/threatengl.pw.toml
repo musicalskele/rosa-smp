@@ -12,8 +12,6 @@ hash = "e2fe12c70517e309aa1ab09bc9fb2fe7fd4b9ec27a0b8cd3742993d30c449d3c09acf46c
 mod-id = "RSFrpoou"
 version = "ldyjVGuW"
 
-
 [option]
 optional = true
-default = false
 description = "EXPERIMENTAL. MIGHT IMPROVE PERFORMANCE."

@@ -14,5 +14,5 @@ version = "HuXAp0GB"
 
 [option]
 optional = true
-default = true
 description = "a search bar for your controls screen and a few other cool things :3"
+default = true

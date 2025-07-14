@@ -14,5 +14,5 @@ version = "xcauwnEB"
 
 [option]
 optional = true
-default = true
 description = "see expanded hunger info such as saturation in hud!"
+default = true

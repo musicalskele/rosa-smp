@@ -50,27 +50,27 @@ hash = "24d7360ca48125a61b500c1b727fca6da5506a7d18c05c56d132a73447c8c381"
 
 [[files]]
 file = "kubejs/server_scripts/misc/chat_sounds.js"
-hash = "d77d4cd9bc4582332c74e6a01f5f9d7183b2756605381fdfe35e3748e1395c99"
+hash = "a672e4f6faa50381e34e3894f51eff6c6972433591862b3bcd99686bd2a0dca0"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/tconstruct/smeltery/casting_basin.js"
-hash = "6c4b5983731a5163e7911e3982470541b3b4c909272a838b85eeb8352826117f"
+hash = "4b2e19db32af19f18f48eff2f0e7c439087467c5a34d9c07308d53d69d69bf1a"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/tconstruct/smeltery/casting_table.js"
-hash = "cc93867086707e8a6d3fec89b8f2fec44b848719f5c220fecfe535c861051635"
+hash = "8e28cf7804093efbb2241221dbb8ebec595a9f36ce7f3bb6db2df631044c061f"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/tconstruct/smeltery/melting.js"
-hash = "d57f7aba619ce74d7161bd1929ebd412f84a98c509d955a0da14d476483531d7"
+hash = "aa9b8e8841931f6367592cfb602f6ab9794a8672cb72df87663dc6a0784d04ab"
 
 [[files]]
 file = "kubejs/startup_scripts/registry/kubejs/fluids.js"
-hash = "f735dabfb61f4ab87fc400e5ee9d49ea29f7a3304246bc110f405fe0bb707a17"
+hash = "efa9113bbe7bab2c9cad38fa17547385b0adeac15a2708ccc29c263dfc3454f3"
 
 [[files]]
 file = "mods/amecs.pw.toml"
-hash = "68e361feeb8596cda904af51e7977b0bbe71b8287d5fd0a731e64fba4bf4961b"
+hash = "5cb5a6a41fa153e80f61a9cd93e49c0e920e70a4cb6db8ab52e1a7766b9bc96d"
 metafile = true
 
 [[files]]
@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "f5b72006edc326ac57bcd3ee2847dab797ad7b1f5c7246af5e21623c0ec97d69"
+hash = "b51535c99c433f652e2a75f8142e0381cee3407d5cb821e95ebc3d1433322dd8"
 metafile = true
 
 [[files]]
@@ -450,12 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
-metafile = true
-
-[[files]]
-file = "mods/mpalladium.pw.toml"
-hash = "717cd221e35b37e8836103f5252cf7a4b21b9bafb04f91fa94d5a0810e0c5503"
+hash = "82a91ca49460e49999552e13e7c6e5b5f5c497de51ebbc0d197cf50cd369577e"
 metafile = true
 
 [[files]]
@@ -470,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/nmuk.pw.toml"
-hash = "86fcd32c57d9e4a221a2b986dc0f12206d242275ff00f9a13ddc887f62071d0b"
+hash = "bfd41c0b2945b4582f681a821b1dfc7c5e7b5eb5f83dbdb711c361926024ac7a"
 metafile = true
 
 [[files]]
@@ -485,12 +480,12 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "f8879a5a06411d47d27dc543c718307afb95286a0b91a593692b5a5033ade53d"
+hash = "48690171af8b3ffb6b277872b5d548c277649051869888f1efe121fec85b61d3"
 metafile = true
 
 [[files]]
 file = "mods/observable.pw.toml"
-hash = "f4e30d7382bed2274ece18518504ebdc13392951b60e2ac1e7dffec6c10f64e9"
+hash = "1df8255388ec417040ccebb556cd02e8a9306ecdc4d3aab012b341ba6396b064"
 metafile = true
 
 [[files]]
@@ -526,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
+metafile = true
+
+[[files]]
+file = "mods/plutonium.pw.toml"
+hash = "983b72fabfafefcf71dbf7cb1ec65117e7b7f12c26665a201c1836898e2f60b9"
 metafile = true
 
 [[files]]
@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/threatengl.pw.toml"
-hash = "b46b606fdf58f8c0e4a96659c83e4972c50ed4d547e435d74e0b507328435d6e"
+hash = "296da57b49d9fb80794f8fadeb7f90e1ab1bef420e70ec229a4bc3e2761c0f83"
 metafile = true
 
 [[files]]

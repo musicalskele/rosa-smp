@@ -14,5 +14,5 @@ version = "wX0qDRqE"
 
 [option]
 optional = true
-default = true
 description = "add alternative key combinations to every keybind, like shift+r or idk some weird other shit"
+default = true
