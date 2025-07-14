@@ -1,18 +1,17 @@
 name = "Distant Horizons"
-filename = "DistantHorizons-fabric-forge-2.3.2-b-1.20.1.jar"
+filename = "DistantHorizons-2.3.3-b-1.20.1-fabric-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uCdwusMi/versions/vSDePnsB/DistantHorizons-fabric-forge-2.3.2-b-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/AY1b2ZU9/DistantHorizons-2.3.3-b-1.20.1-fabric-forge.jar"
 hash-format = "sha512"
-hash = "14f5548cffa24fabdcfce6626fc813db42e28350a126833a54e1c54e13e6b393e232b5a0d55fe6bc6f7e273061adaade67f8a8bbee9503cdaf869c28db0995b7"
+hash = "a063a151c738183220b105575a269e6928214c021c6ae0d0a1e2b05cd9ec0770464de187a6d27fd0eb547caaf10c2a1ee264a4b18a07315decea9d6e815eedf3"
 
 [update]
 [update.modrinth]
 mod-id = "uCdwusMi"
-version = "vSDePnsB"
+version = "AY1b2ZU9"
 
 [option]
 optional = true
-default = false
 description = "with this u can see like 256 chunks or sometghing, can be laggy, works with shaders"

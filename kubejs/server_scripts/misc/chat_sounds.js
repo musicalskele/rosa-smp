@@ -23,7 +23,7 @@ PlayerEvents.chat((event) => {
 			return speed * 0.6 * SECOND;
 		}
 
-		const pitch = (Math.random() * 0.4 + 0.8).toFixed(2); // 0.8–1.2
+		const pitch = (Math.random() * 0.4 + 0.8).toFixed(2);
 		Utils.server.runCommandSilent(`execute at @a run playsound ${sound} voice @a ~ ~ ~ 1 ${pitch}`);
 		speed *= 0.96;
 		return speed * SECOND;
@@ -41,14 +41,18 @@ function loopOverTime(ctx) {
 
 function getSoundIdFromKey(key) {
 	switch (key) {
-		case 'meow': case 'mnya': case 'mnyaa': case 'nyaa': case 'mreow':
+		case 'meow': case 'mnya': case 'mnyaa': case 'nyaa': case 'nya':
 			return 'entity.cat.ambient';
-		case 'mrow':
+		case 'mrow': case 'mreow':
 			return 'entity.cat.purreow';
-		case 'bark' : case 'woof':
+		case 'purr':
+			return 'entity.cat.purr';
+		case 'bark': case 'woof':
 			return 'entity.wolf.ambient';
 		case 'baa':
 			return 'entity.sheep.ambient';
+		case 'moo':
+			return 'entity.cow.ambient';
 		default:
 			return '';
 	}

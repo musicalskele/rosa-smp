@@ -109,6 +109,11 @@ hash = "ab1e22cc66189067e002a204c70c553cc7cc0e738bd602f405d7cc37561260be"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "036bd1f08a582f2a38809e3ab65720d5e04d84fcc1c7b8558d6888c319e18527"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "d7dcbb9489b17fbe221d3a59ab2503293b219cee29d07a08aefbe32c5f3bf160"
 metafile = true
@@ -149,13 +154,23 @@ hash = "4398ab598bb4c28c32c7de835a64054936959e4e0c6a17d147a26c41c0536645"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "127f0a7311e4ecd77c0b96660e0ff873d78d253fffb68db6101eeb414de38bb1"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "5ba003768a235ab0d811218191166f9aefa4c9a2509341fbba1efd80e18d3676"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "2734e629ae60121793c07db76ab086f37953217142c5bb4a5e10c7fafc6104ae"
+hash = "4cd181924c100d861938395434fd5c5cbb9ffbc3c423f9812e0bb7fcd43e472b"
 metafile = true
 
 [[files]]
@@ -225,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "256ec32618a8ab4cd74898bce57e73ad74b58b2209267a67e43da33fcdeca8da"
+hash = "b0923129cb97099ef2cb13265fbeb8d720c73a733335b850f49cebd682311661"
 metafile = true
 
 [[files]]
@@ -410,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f149a969021fee77abd79fee4906f80abbbd928b3f68bf14de1a2685ee9a2a80"
+hash = "936f8e3b23ec686afb7bf7f379984662f44099bc54f11767445ef2bd3e70fde7"
 metafile = true
 
 [[files]]
@@ -431,6 +446,16 @@ metafile = true
 [[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "1ab3b265bab4a5e521a49224d876727232e66d69afe632ff2bb5a2be462ca2ba"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
+metafile = true
+
+[[files]]
+file = "mods/mpalladium.pw.toml"
+hash = "717cd221e35b37e8836103f5252cf7a4b21b9bafb04f91fa94d5a0810e0c5503"
 metafile = true
 
 [[files]]
@@ -459,6 +484,16 @@ hash = "5007cc27d09936d722b5a40b4bcea0abc4100a3e9f7bc41979c3d2e3f0a30752"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "f8879a5a06411d47d27dc543c718307afb95286a0b91a593692b5a5033ade53d"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "f4e30d7382bed2274ece18518504ebdc13392951b60e2ac1e7dffec6c10f64e9"
+metafile = true
+
+[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "0cd69add62e07381eacd3abf2a9188b1a0e2648ab92ebefe82d93ffd229ddbca"
 metafile = true
@@ -466,6 +501,16 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
+file = "mods/pandalib.pw.toml"
+hash = "89808a9a38f169f22e790cf991ea0cf36b2102b3ed297d6babb6a2ef4e334a3d"
+metafile = true
+
+[[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+hash = "ea51b10b741a1f3d5a6ae9873a40099596e3883bfd765b8038b15b7335fdca4a"
 metafile = true
 
 [[files]]
@@ -536,6 +581,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "82c3a531c2180cd45f59e433315e31dc886c464a05ea38ea0b82ce1bc033c520"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "0201eb8dce1b66107457141c16049d6ffaf952f506b4e37129a4b4a1b8e12b1c"
 metafile = true
 
 [[files]]
@@ -614,8 +664,23 @@ hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true
 
 [[files]]
+file = "mods/threatengl.pw.toml"
+hash = "b46b606fdf58f8c0e4a96659c83e4972c50ed4d547e435d74e0b507328435d6e"
+metafile = true
+
+[[files]]
+file = "mods/toadlib.pw.toml"
+hash = "92ac5a42033984336293653ab02fd0e1670a8d6d52e4c4ef59a0ad843adb60f1"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "c57e5187ae4382be6c19e596c8a3f4a7a2b4d566c16c6fc8ad8a0629dc9454d1"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "736c973b73d145aac2728acf181a18bd39a4b0126cfead47345d22a72c0898ce"
 metafile = true
 
 [[files]]
