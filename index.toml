@@ -524,11 +524,6 @@ hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
 metafile = true
 
 [[files]]
-file = "mods/plutonium.pw.toml"
-hash = "983b72fabfafefcf71dbf7cb1ec65117e7b7f12c26665a201c1836898e2f60b9"
-metafile = true
-
-[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
 metafile = true
