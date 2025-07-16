@@ -14,4 +14,4 @@ version = "AY1b2ZU9"
 
 [option]
 optional = true
-description = "with this u can see like 256 chunks or sometghing, can be laggy, works with shaders"
+description = "expands the visible world with lod (level of detail), letting you see FAR beyond vanilla render distances—up to 512+ chunks. may increase memory and gpu usage. compatible with most shaders."

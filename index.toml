@@ -25,6 +25,18 @@ file = "config/paxi/datapacks/Tom's Storage - Creatified.zip"
 hash = "4e29527fe092115aaf27e208f004b26c868e1fce541574131fb8e3e03d67f0f7"
 
 [[files]]
+file = "config/paxi/datapacks/rosadatapack/advancements/join_server.json"
+hash = "76d7e0ff85eabc866bd7ad43c5007511ea3d2fec1ae2285579172583f953bac4"
+
+[[files]]
+file = "config/paxi/datapacks/rosadatapack/advancements/wtf.json"
+hash = "f31f0bfafd2bb8ad6571cfeb018d4bd44fcb3c6ce34ec7e276df69d530f0ff8c"
+
+[[files]]
+file = "config/paxi/datapacks/rosadatapack/pack.mcmeta"
+hash = "fd41a0d2bb8a6da343abe4b3aa0fc6d0378ff019f6215d2e787d391a5b108ec2"
+
+[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "b25f8b7cb2dc019cbb72db90900c136c2c19a163400415262582d1ec927245d9"
 
@@ -46,23 +58,27 @@ hash = "4a78c8af8a1810229fd955b656ec675ed99a30c780b666b92704a58d84af9371"
 
 [[files]]
 file = "kubejs/server_scripts/fluid_constants.js"
-hash = "24d7360ca48125a61b500c1b727fca6da5506a7d18c05c56d132a73447c8c381"
+hash = "66f2a8aeb4581819c77a0e097032c522632b7bdb9ed2a3c33a70e0f03770e73a"
 
 [[files]]
 file = "kubejs/server_scripts/misc/chat_sounds.js"
-hash = "a672e4f6faa50381e34e3894f51eff6c6972433591862b3bcd99686bd2a0dca0"
+hash = "32444717e7dc4c8064c008362da6dab708e3dbaba2acae3c0c29c9183e5b04f5"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/tconstruct/smeltery/casting_basin.js"
-hash = "4b2e19db32af19f18f48eff2f0e7c439087467c5a34d9c07308d53d69d69bf1a"
+hash = "43b06d0ea3b61efc994e3e5bcab0829f7bd2d3184d740d3de3602bb9529d640c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/tconstruct/smeltery/casting_table.js"
-hash = "8e28cf7804093efbb2241221dbb8ebec595a9f36ce7f3bb6db2df631044c061f"
+hash = "8567df00b498ae8e91e12d04c95a2ccbec648f0d3b85e97c5ad9435b0870576b"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/tconstruct/smeltery/melting.js"
-hash = "aa9b8e8841931f6367592cfb602f6ab9794a8672cb72df87663dc6a0784d04ab"
+hash = "d106c40d28f97e47cf5b63bb7b20d54d9191b048095222a4f367b44e4d0f3980"
+
+[[files]]
+file = "kubejs/startup_scripts/misc/modname.js"
+hash = "f6151a96e0efd882d0098276908a30f7c265e70649548377a59dd2d961655bf8"
 
 [[files]]
 file = "kubejs/startup_scripts/registry/kubejs/fluids.js"
@@ -245,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "b0923129cb97099ef2cb13265fbeb8d720c73a733335b850f49cebd682311661"
+hash = "5a3fe668d8917b3061604b6140df5fa905145495283b1e16aac832ffcb7ad96c"
 metafile = true
 
 [[files]]
@@ -300,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "29d41095d30271247f296402d3e50d8ce060acf77808efcbe25de0ec84e76975"
+hash = "fe704cf6b788089335e7912b5c50bc6f157c1a00dcbf6acdebe79f2763d9d533"
 metafile = true
 
 [[files]]
@@ -334,6 +350,11 @@ hash = "3251cbd6f9d698f979aa5db8ad95bedb3d39b4deb41ec18ab91635b650d977db"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "486365308053b52809d840574fcf011125a146c2ab51ff8efb0f72c8cc1a759e"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "f6629a3c5e023a96cb5d78d66e93b47245996c46a079921b3f6a6094209dc1b0"
 metafile = true
@@ -346,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "6fd34bf65c7e23b232315da1a5c9139ffa1d8d334495872fd229e39e00b94d61"
 metafile = true
 
 [[files]]
@@ -490,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "48690171af8b3ffb6b277872b5d548c277649051869888f1efe121fec85b61d3"
+hash = "c6ba563eb53c4368b03d72e54e121b0b33058a1cb9f46713e2d92f4c2b9d5665"
 metafile = true
 
 [[files]]
@@ -535,7 +561,12 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
+hash = "242400d49bf6ad798e309c2a1957b15a8c0f51b1de82ce507fd43d1b64e06243"
+metafile = true
+
+[[files]]
+file = "mods/pride-moths.pw.toml"
+hash = "ab0ef96f83ac6d59519db6beab67ec94f23a2e3a9cd50c0f4361a0ef135e3481"
 metafile = true
 
 [[files]]
@@ -625,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "e53888490a33ad3127b09dd98ce001e579cb6c205a99a1e6e0424ab9f5b862c2"
+hash = "f9f5148379239aebec4cd6503fbe76fa376fcfe66c1fb3663d92d54088299dc1"
 metafile = true
 
 [[files]]
@@ -746,4 +777,19 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "f8a4208d9cb40af6ad94428f2bc83a6f0b5713e8344d04898e834faa510ff2da"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "6e1e0f998051f697fbc3b6125230ed702cde8773040a8ecdd72e1ea5d8dacc0e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "3add1378e964947556ec43ebc86a431981cfa67c9b95353105d7f48deb58ff3d"
 metafile = true

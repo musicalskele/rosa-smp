@@ -11,3 +11,8 @@ hash = "c306f96496aadc30abcaac0bd35e22f870e974fe532eaf1f2b66bfd5e7e5e7f6276d58b3
 [update.modrinth]
 mod-id = "rcTfTZr3"
 version = "k0t6DSmw"
+
+[option]
+optional = true
+description = "extra sounds (for walking)"
+default = true

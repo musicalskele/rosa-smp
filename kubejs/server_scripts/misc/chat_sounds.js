@@ -23,8 +23,12 @@ PlayerEvents.chat((event) => {
 			return speed * 0.6 * SECOND;
 		}
 
+		
+		
 		const pitch = (Math.random() * 0.4 + 0.8).toFixed(2);
 		Utils.server.runCommandSilent(`execute at @a run playsound ${sound} voice @a ~ ~ ~ 1 ${pitch}`);
+		Utils.server.runCommandSilent(`advancement grant ${event.player.name} only rosadatapack:wtf_was_that`);
+		
 		speed *= 0.96;
 		return speed * SECOND;
 	});
@@ -49,6 +53,8 @@ function getSoundIdFromKey(key) {
 			return 'entity.cat.purr';
 		case 'bark': case 'woof':
 			return 'entity.wolf.ambient';
+		case 'whine': case 'whimper':
+			return 'entity.wolf.whine';
 		case 'baa':
 			return 'entity.sheep.ambient';
 		case 'moo':

@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "blahaj:blue_shark"
+    },
+    "title": {
+      "text": "welcome to the server!!",
+      "color": "dark_aqua"
+    },
+    "description": {
+      "text": "you've joined the server for the first time ever!",
+      "color": "gray"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "joined": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    ["joined"]
+  ]
+}

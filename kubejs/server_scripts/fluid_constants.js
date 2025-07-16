@@ -1,4 +1,4 @@
-// priority: 101
+// priority: 100
 
 global.fluids = Object.freeze({
   BUCKET: 81000,
