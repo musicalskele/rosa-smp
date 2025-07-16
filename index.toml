@@ -30,11 +30,11 @@ hash = "76d7e0ff85eabc866bd7ad43c5007511ea3d2fec1ae2285579172583f953bac4"
 
 [[files]]
 file = "config/paxi/datapacks/rosadatapack/advancements/wtf.json"
-hash = "f31f0bfafd2bb8ad6571cfeb018d4bd44fcb3c6ce34ec7e276df69d530f0ff8c"
+hash = "6afb28e3c731d8ebe35c55aae8fe27abdccb79a4bd13a1c55f06a4b7b49d04ac"
 
 [[files]]
 file = "config/paxi/datapacks/rosadatapack/pack.mcmeta"
-hash = "fd41a0d2bb8a6da343abe4b3aa0fc6d0378ff019f6215d2e787d391a5b108ec2"
+hash = "3fcd07b6e0179967ce120aeacaec39596245a695751c6d7b4d97f07fc7a2547c"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
