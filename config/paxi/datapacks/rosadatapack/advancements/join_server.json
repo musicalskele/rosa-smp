@@ -3,25 +3,22 @@
     "icon": {
       "item": "blahaj:blue_shark"
     },
-    "title": {
-      "text": "welcome to the server!!",
-      "color": "dark_aqua"
-    },
-    "description": {
-      "text": "you've joined the server for the first time ever!",
-      "color": "gray"
-    },
+    "title": "rosa server!",
+    "description": "welcome to the rosa server :3",
+    "background": "minecraft:block/andesite",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "criteria": {
-    "joined": {
+    "trigger": {
       "trigger": "minecraft:tick"
     }
   },
   "requirements": [
-    ["joined"]
+    [
+      ""
+    ]
   ]
 }
