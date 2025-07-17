@@ -26,7 +26,7 @@ hash = "4e29527fe092115aaf27e208f004b26c868e1fce541574131fb8e3e03d67f0f7"
 
 [[files]]
 file = "config/paxi/datapacks/rosadatapack/advancements/join_server.json"
-hash = "502e9442640042b4e0626c6378c717a0b8188dfbacffb7f493513ee5782b1146"
+hash = "3c15b557c20c9c7bf4fdd027496f1b8ecb14ada33779cdbbf84783d9f72be0c4"
 
 [[files]]
 file = "config/paxi/datapacks/rosadatapack/advancements/wtf.json"
@@ -192,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "4cd181924c100d861938395434fd5c5cbb9ffbc3c423f9812e0bb7fcd43e472b"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "dcbe0ee85bfa16137085751b34443bebecdd57cca4258b7fa0b1f06e589ee6d2"
 metafile = true
 
 [[files]]

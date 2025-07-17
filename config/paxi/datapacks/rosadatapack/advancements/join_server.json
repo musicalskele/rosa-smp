@@ -12,13 +12,11 @@
     "hidden": false
   },
   "criteria": {
-    "trigger": {
+    "joined": {
       "trigger": "minecraft:tick"
     }
   },
   "requirements": [
-    [
-      ""
-    ]
+    ["joined"]
   ]
 }
